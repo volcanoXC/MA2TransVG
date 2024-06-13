@@ -1,0 +1,11 @@
+einops==0.6.0
+jsonlines==3.1.0
+tensorboardX==2.5.1
+torch==1.10.0
+transformers==4.18.0
+torchvision==0.12.0
+spacy==2.3.7
+scikit-learn==1.0.2
+tensorboard==2.8.0
+protobuf==3.19
+
